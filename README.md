@@ -1,2 +1,2 @@
-# homebrew-passphrase
+# Passphrase Generator
  
