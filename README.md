@@ -1,6 +1,6 @@
 # homebrew-passphrase
 
-A CLI random passphrase generator.
+A CLI random [passphrase](https://xkcd.com/936/) generator.
 
 ### Logic
 
