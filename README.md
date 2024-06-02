@@ -1,6 +1,6 @@
 # homebrew-passphrase
 
-An on-device CLI random passphrase generator.
+A CLI random passphrase generator.
 
 ### Logic
 
